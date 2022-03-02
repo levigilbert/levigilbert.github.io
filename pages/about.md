@@ -1,6 +1,6 @@
 <!--
 .. title: About
-.. slug: About
+.. slug: about
 .. date: 2022-03-02 09:48:22 UTC-06:00
 .. tags: 
 .. category: 
