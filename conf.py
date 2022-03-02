@@ -140,7 +140,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/pages/about/", "About"),
+        ("/pages/about", "About"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
@@ -243,9 +243,9 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.mdown", "posts", "post.tmpl"),
-    ("posts/*.markdown", "posts", "post.tmpl"),
+    ("pages/*.md", "pages", "page.tmpl"),
+    ("pages/*.mdown", "pages", "page.tmpl"),
+    ("pages/*.markdown", "pages", "page.tmpl"),
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
@@ -1029,7 +1029,7 @@ COMMENT_SYSTEM_ID = "levigilbert/levigilbert.github.io"
 # WARNING: if a page would conflict with the index file (usually
 #          caused by setting slug to `index`), the PAGE_INDEX
 #          will not be generated for that directory.
-PAGE_INDEX = True
+# PAGE_INDEX = False
 # Enable comments on pages (i.e. not posts)?
 # COMMENTS_IN_PAGES = False
 # Enable comments on picture gallery pages?
