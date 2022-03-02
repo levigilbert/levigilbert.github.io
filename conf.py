@@ -1407,7 +1407,7 @@ GLOBAL_CONTEXT = {}
 
 GLOBAL_CONTEXT['utterances_config'] = {
         "issue-term" : "pathname",
-        "theme" : "gruvbox-dark",
+        "theme" : "boxy-light",
         "crossorigin" : "anonymous"
 }
 
