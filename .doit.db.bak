@@ -69,3 +69,4 @@
 'render_posts:cache\\posts\\the-start.html', (57344, 357)
 'render_pages:output\\posts\\the-start\\index.html', (57856, 3971)
 'render_taxonomies:output\\2021\\index.html', (62464, 2114)
+'copy_files:output\\CNAME', (69632, 226)
