@@ -9,4 +9,6 @@
 .. type: text
 -->
 
-Write your page here.
+# About
+
+This will be a collection of posts about video games, art, animation, and whatever I'm thinking about.
