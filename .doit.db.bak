@@ -14,7 +14,7 @@
 'create_bundles:output\\assets\\css\\all.css', (9216, 678)
 'render_pages', (10240, 56)
 'copy_assets:output\\assets\\js\\fancydates.js', (10752, 386)
-'sitemap:output\\sitemap.xml', (77824, 1839)
+'sitemap:output\\sitemap.xml', (77824, 1833)
 'render_site', (12288, 56)
 'copy_assets', (12800, 56)
 'sitemap:output\\sitemapindex.xml', (13312, 257)
