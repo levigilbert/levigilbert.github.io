@@ -1,4 +1,4 @@
 --upgrade pip
 nikola[extras]
-marko
+marko[toc]
 
