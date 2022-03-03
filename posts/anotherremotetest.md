@@ -1,7 +1,7 @@
 <!--
 .. title: Testing Remote Posts Again
 .. slug: remote-post2
-.. date: 2022-03-03 23:06:09 UTC-06:00
+.. date: 2022-03-03 12:06:09 UTC-06:00
 .. tags: 
 .. category: 
 .. link: 
