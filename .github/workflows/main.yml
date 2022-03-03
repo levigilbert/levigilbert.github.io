@@ -9,5 +9,3 @@ jobs:
       uses: actions/checkout@v2
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v2
-      with:
-        dry_run: false
