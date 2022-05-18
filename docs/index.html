@@ -17,7 +17,14 @@
       name: 'Levigilbert.dev',
       loadNavbar: true,
       loadFooter: '_footer.md',
-      hideSidebar: true
+      hideSidebar: true,
+      autoHeader: false,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      formatUpdated: function(time) {
+        // ...
+        
+        return time;
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
