@@ -203,6 +203,10 @@ img {
     clear: both;
 }
 
+.sidebar ul li a {
+    font-size: 1rem;
+}
+
 .anchor span,
 .markdown-section a:hover,
 .sidebar ul li a:link,
