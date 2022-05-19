@@ -192,3 +192,8 @@ img {
     display: table;
     clear: both;
 }
+
+.anchor span {
+    color: black;
+    text-decoration: none;
+}
