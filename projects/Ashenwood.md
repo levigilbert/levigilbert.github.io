@@ -11,4 +11,3 @@
 - Location encounters
 - NPCs
 - Location descriptions
-
