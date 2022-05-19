@@ -85,6 +85,7 @@ body {
     font-weight: 300;
     font-style: normal;
     font-size: 2.5rem;
+    color: black;
     margin-top: 4rem;
     line-height: 1.2rem;
     width: 90%;
@@ -96,6 +97,7 @@ body {
 .markdown-section h5,
 .markdown-section h6 {
     font-family: 'Cooper-Hewitt';
+    color: black;
     margin-top: 1rem;
     margin-bottom: 1rem;
     line-height: 2rem;
@@ -124,6 +126,7 @@ body {
 li {
     list-style-position: outside;
     margin-left: 1.2rem;
+    color: black;
 }
 
 a:link {
@@ -155,6 +158,7 @@ th {
     font-family: 'Cooper-Hewitt';
     font-weight: 300;
     font-size: 1.5rem;
+    color: black;
 }
 
 table {
