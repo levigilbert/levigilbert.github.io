@@ -1,35 +1,262 @@
-li { font-size: 14px; font-weight: 400; line-height: 20px; }
-pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
+@font-face {
+    font-family: "Cooper-Hewitt";
+    font-style: normal;
+    font-weight: 900;
+    src: url("fonts/CooperHewitt-Heavy.woff") format("woff");
+}
 
-.markdown-section blockquote { border-left: 4px solid #92BEC7; }
-.markdown-section h1 { margin-top: 50px; }
-.markdown-section em { color: #6d6d6d; }
-.markdown-section p.warn { background: #F8F8F8;}
-.markdown-section table { display: table; width: 100% }
-.markdown-section th { text-transform: uppercase; }
-.markdown-section td, .markdown-section th { text-align: left; }
+@font-face {
+    font-family: "Cooper-Hewitt";
+    font-style: normal;
+    font-weight: 700;
+    src: url("fonts/CooperHewitt-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Cooper-Hewitt";
+    font-style: normal;
+    font-weight: 400;
+    src: url("fonts/CooperHewitt-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Cooper-Hewitt";
+    font-style: normal;
+    font-weight: 300;
+    src: url("fonts/CooperHewitt-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Cooper-Hewitt";
+    font-style: normal;
+    font-weight: 100;
+    src: url("fonts/CooperHewitt-Thin.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Charter";
+    font-style: normal;
+    font-weight: 700;
+    src: url("fonts/charter_bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Charter";
+    font-style: italic;
+    font-weight: 700;
+    src: url("fonts/charter_bold_italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Charter";
+    font-style: normal;
+    font-weight: 400;
+    src: url("fonts/charter_regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Charter";
+    font-style: italic;
+    font-weight: 400;
+    src: url("fonts/charter_italic.woff2") format("woff2");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 100;
+    font-style: normal;
+    font-size: 5rem;
+    margin-top: 4rem;
+    line-height: 6rem;
+}
+
+body {
+    font-family: 'Charter', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+    margin: auto;
+    max-width: 600px;
+    background-color: white;
+    line-height: 1.7rem;
+}
+
+h1 {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2.5rem;
+    margin-top: 4rem;
+    line-height: 1.2rem;
+    width: 90%;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Cooper-Hewitt';
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    line-height: 2rem;
+    padding-top: 1rem;
+}
+
+h4,
+h5,
+h6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    border-top: 1px solid black;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    border-top: 1px solid black;
+}
+
+li {
+    list-style-position: outside;
+    margin-left: 1.2rem;
+}
+
+a:link {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+
+th {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+table {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+img {
+    max-width: min(600px, 100%);
+}
+
+.leftColumn {
+    float: left;
+    width: 50%;
+}
+
+.rightColumn {
+    float: right;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+pre {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
+
+.markdown-section blockquote {
+    border-left: 4px solid #92BEC7;
+}
+
+.markdown-section h1 {
+    margin-top: 50px;
+}
+
+.markdown-section em {
+    color: #6d6d6d;
+}
+
+.markdown-section p.warn {
+    background: #F8F8F8;
+}
+
+.markdown-section table {
+    display: table;
+    width: 100%
+}
+
+.markdown-section th {
+    text-transform: uppercase;
+}
+
+.markdown-section td,
+.markdown-section th {
+    text-align: left;
+}
 
 .progress,
 .sidebar-toggle span,
-section.cover .cover-main > p:last-child a:last-child
-{ background-color: #92BEC7;}
+section.cover .cover-main>p:last-child a:last-child {
+    background-color: #92BEC7;
+}
 
-.search a:hover, 
-.search .search-keyword, 
-.app-nav a:hover, 
+.search a:hover,
+.search .search-keyword,
+.app-nav a:hover,
 .app-nav a:active,
-.sidebar ul li.active > a, 
-.markdown-section a, 
-.token.attr-value, 
-.token.control, 
-.token.directive, 
-.token.string, 
-.token.unit, 
-section.cover .cover-main > p:last-child a,
-section.cover blockquote > p > a:hover
-{ color: #92BEC7; }
+.sidebar ul li.active>a,
+.markdown-section a,
+.token.attr-value,
+.token.control,
+.token.directive,
+.token.string,
+.token.unit,
+section.cover .cover-main>p:last-child a,
+section.cover blockquote>p>a:hover {
+    color: #92BEC7;
+}
 
 .app-nav a:active,
-section.cover blockquote > p > a { border-bottom: 2px solid #92BEC7; }
+section.cover blockquote>p>a {
+    border-bottom: 2px solid #92BEC7;
+}
 
-section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
+section.cover .cover-main>p:last-child a {
+    border-color: #92BEC7
+}
