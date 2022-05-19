@@ -198,23 +198,3 @@ pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
 .sidebar-toggle span,
 section.cover .cover-main > p:last-child a:last-child
 { background-color: #92BEC7;}
-
-.search a:hover, 
-.search .search-keyword, 
-.app-nav a:hover, 
-.app-nav a:active,
-.sidebar ul li.active > a, 
-.markdown-section a, 
-.token.attr-value, 
-.token.control, 
-.token.directive, 
-.token.string, 
-.token.unit, 
-section.cover .cover-main > p:last-child a,
-section.cover blockquote > p > a:hover
-{ color: #92BEC7; }
-
-.app-nav a:active,
-section.cover blockquote > p > a { border-bottom: 2px solid #92BEC7; }
-
-section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
