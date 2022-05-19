@@ -193,7 +193,8 @@ img {
     clear: both;
 }
 
-.anchor span {
+.anchor span,
+.anchor a:active {
     color: black;
     text-decoration: none;
 }
