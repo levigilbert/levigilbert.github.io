@@ -194,8 +194,7 @@ img {
     clear: both;
 }
 
-.anchor span,
-.anchor a:active {
+.markdown-section a {
     color: black;
     text-decoration: none;
 }
