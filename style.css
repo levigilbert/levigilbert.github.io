@@ -199,7 +199,18 @@ img {
 
 .anchor span,
 .markdown-section a:hover,
-.sidebar ul li a:hover {
+.sidebar ul li a:hover,
+.sidebar ul li a:link,
+.sidebar ul li a:visited {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 400;
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar ul li a:active {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 700;
     color: black;
     text-decoration: none;
 }
