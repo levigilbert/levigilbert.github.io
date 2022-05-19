@@ -65,15 +65,6 @@ html {
     scroll-behavior: smooth;
 }
 
-header {
-    font-family: 'Cooper-Hewitt';
-    font-weight: 100;
-    font-style: normal;
-    font-size: 5rem;
-    margin-top: 4rem;
-    line-height: 6rem;
-}
-
 body {
     font-family: 'Charter', serif;
     font-weight: 400;
@@ -85,7 +76,7 @@ body {
     line-height: 1.7rem;
 }
 
-h1 {
+.markdown-section h1 {
     font-family: 'Cooper-Hewitt';
     font-weight: 300;
     font-style: normal;
@@ -95,11 +86,11 @@ h1 {
     width: 90%;
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
     font-family: 'Cooper-Hewitt';
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -107,20 +98,20 @@ h6 {
     padding-top: 1rem;
 }
 
-h4,
-h5,
-h6 {
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
     font-size: 1.5rem;
     font-weight: 300;
 }
 
-h2 {
+.markdown-section h2 {
     font-size: 2rem;
     font-weight: 300;
     border-top: 1px solid black;
 }
 
-h3 {
+.markdown-section h3 {
     font-size: 1.5rem;
     font-weight: 400;
     border-top: 1px solid black;
@@ -194,69 +185,33 @@ img {
     clear: both;
 }
 
-pre {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 18.5714px;
-}
+pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
 
-.markdown-section blockquote {
-    border-left: 4px solid #92BEC7;
-}
-
-.markdown-section h1 {
-    margin-top: 50px;
-}
-
-.markdown-section em {
-    color: #6d6d6d;
-}
-
-.markdown-section p.warn {
-    background: #F8F8F8;
-}
-
-.markdown-section table {
-    display: table;
-    width: 100%
-}
-
-.markdown-section th {
-    text-transform: uppercase;
-}
-
-.markdown-section td,
-.markdown-section th {
-    text-align: left;
-}
+.markdown-section blockquote { border-left: 4px solid #92BEC7; }
+.markdown-section em { color: #6d6d6d; }
+.markdown-section p.warn { background: #F8F8F8;}
 
 .progress,
 .sidebar-toggle span,
-section.cover .cover-main>p:last-child a:last-child {
-    background-color: #92BEC7;
-}
+section.cover .cover-main > p:last-child a:last-child
+{ background-color: #92BEC7;}
 
-.search a:hover,
-.search .search-keyword,
-.app-nav a:hover,
+.search a:hover, 
+.search .search-keyword, 
+.app-nav a:hover, 
 .app-nav a:active,
-.sidebar ul li.active>a,
-.markdown-section a,
-.token.attr-value,
-.token.control,
-.token.directive,
-.token.string,
-.token.unit,
-section.cover .cover-main>p:last-child a,
-section.cover blockquote>p>a:hover {
-    color: #92BEC7;
-}
+.sidebar ul li.active > a, 
+.markdown-section a, 
+.token.attr-value, 
+.token.control, 
+.token.directive, 
+.token.string, 
+.token.unit, 
+section.cover .cover-main > p:last-child a,
+section.cover blockquote > p > a:hover
+{ color: #92BEC7; }
 
 .app-nav a:active,
-section.cover blockquote>p>a {
-    border-bottom: 2px solid #92BEC7;
-}
+section.cover blockquote > p > a { border-bottom: 2px solid #92BEC7; }
 
-section.cover .cover-main>p:last-child a {
-    border-color: #92BEC7
-}
+section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
