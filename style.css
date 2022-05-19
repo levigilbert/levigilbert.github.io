@@ -71,9 +71,12 @@ body {
     font-style: normal;
     font-size: 1.3rem;
     margin: auto;
-    max-width: 600px;
     background-color: white;
     line-height: 1.7rem;
+}
+
+.markdown-section {
+    max-width: 600px;
 }
 
 .markdown-section h1 {
