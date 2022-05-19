@@ -71,6 +71,7 @@ body {
     font-style: normal;
     font-size: 1.3rem;
     margin: auto;
+    color: black;
     background-color: white;
     line-height: 1.7rem;
 }
@@ -187,10 +188,3 @@ img {
     display: table;
     clear: both;
 }
-
-pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
-
-.progress,
-.sidebar-toggle span,
-section.cover .cover-main > p:last-child a:last-child
-{ background-color: #92BEC7;}
