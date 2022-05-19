@@ -74,6 +74,7 @@ body {
     color: black;
     background-color: white;
     line-height: 1.7rem;
+    text-decoration: none;
 }
 
 .markdown-section {
