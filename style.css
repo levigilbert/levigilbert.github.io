@@ -79,7 +79,6 @@ body {
 
 .markdown-section {
     max-width: 600px;
-    color: black;
 }
 
 .markdown-section h1 {
@@ -208,4 +207,9 @@ img {
     font-weight: 400;
     color: black;
     text-decoration: none;
+}
+
+.markdown-section blockquote p {
+    font-weight: 300;
+    color: black;
 }
