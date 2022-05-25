@@ -57,12 +57,13 @@ body {
     margin: auto;
     color: black;
     background-color: white;
-    line-height: 1.7rem;
+    line-height: 1.8rem;
     text-decoration: none;
 }
 
 .markdown-section {
     max-width: 650px;
+    color: black;
 }
 
 .markdown-section h1 {
