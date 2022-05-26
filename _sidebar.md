@@ -1,5 +1,5 @@
 * [Home](/)
-* [Posts](posts/home.md)
-* [Projects](projects/home.md)
+* [Posts](posts.md)
+* [Projects](projects.md)
 * [About](about.md)
 * [Contact](mailto:levigilbert00@gmail.com)
