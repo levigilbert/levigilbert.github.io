@@ -3,4 +3,4 @@
 * [Projects](projects.md)
 * [About](about.md)
 * [Contact](mailto:levigilbert00@gmail.com)
-* [![RSS Feed](images/rss.png)](feed.rss)
+* [![RSS Feed](images/rss.png)](rss.md)
