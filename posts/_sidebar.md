@@ -1,1 +1,0 @@
-[![RSS Feed](../images/rss.png)](https://raw.githubusercontent.com/levigilbert/levigilbert.github.io/master/feed.rss)
