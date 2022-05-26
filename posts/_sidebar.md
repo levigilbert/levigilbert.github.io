@@ -1,1 +1,2 @@
+<link rel="alternate" type="application/rss+xml" title="Subscribe to RSS Feed" href="https://github.com/levigilbert/levigilbert.github.io/blob/master/feed.rss" />
 [![RSS Feed](../images/rss.png)](https://github.com/levigilbert/levigilbert.github.io/blob/master/feed.rss)
