@@ -1,0 +1,1 @@
+[filename](feed.rss ':include')
