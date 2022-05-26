@@ -1,4 +1,3 @@
-* [Home](/)
 * [Posts](posts.md)
 * [Projects](projects.md)
 * [About](about.md)
