@@ -1,1 +1,1 @@
-* [![RSS Feed](images/rss.png)](feed.rss)
+[![RSS Feed](images/rss.png)](feed.rss)
