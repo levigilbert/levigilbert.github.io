@@ -1,1 +1,1 @@
-* [Test](/)
+* [Test](about.md)
