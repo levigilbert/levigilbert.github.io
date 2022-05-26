@@ -1,1 +1,1 @@
-[![RSS Feed](https://github.com/levigilbert/levigilbert.github.io/blob/master/images/rss.png)](https://github.com/levigilbert/levigilbert.github.io/blob/master/feed.rss)
+[![RSS Feed](../images/rss.png)](https://github.com/levigilbert/levigilbert.github.io/blob/master/feed.rss)
