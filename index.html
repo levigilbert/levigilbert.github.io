@@ -16,8 +16,12 @@
       name: 'Levigilbert.dev',
       themeColor: '#000000',
       loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
       loadFooter: '_footer.md',
-      subMaxLevel: 2,
+      subMaxLevel: 3,
+      sidebarDisplayLevel: 1,
       timeUpdater: {
         text: ">last updated: {docsify-updated}",
         formatUpdated: '{MM}/{DD} {HH}:{mm}',
@@ -29,5 +33,6 @@
   <!-- plugins -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
