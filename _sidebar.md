@@ -6,4 +6,4 @@
     * [3x3](projects/3x3.md)
 * [About](about.md)
 * [Contact](mailto:levigilbert00@gmail.com)
-* [![RSS](images/rss.png)](feed.rss ':ignore')
+* [![RSS](../images/rss.png)](feed.rss ':ignore')
