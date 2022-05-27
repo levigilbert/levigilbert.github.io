@@ -1,5 +1,8 @@
 * [Posts](posts.md)
+    * [Situational Design for ttrpg Adventures](posts/situationalDesignForRPGAdventures.md)
 * [Projects](projects.md)
+    * [Red is the Knife](projects/RitK.md)
+    * [Ashenwood](projects/Ashenwood.md)
 * [About](about.md)
 * [Contact](mailto:levigilbert00@gmail.com)
 * [![RSS](images/rss.png)](feed.rss ':ignore')
