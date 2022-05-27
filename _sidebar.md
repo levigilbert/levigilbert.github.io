@@ -1,11 +1,5 @@
 * [Posts](posts.md)
-    * [Situational Design for ttrpg Adventures](posts/situationalDesignForRPGAdventures.md)
 * [Projects](projects.md)
-    * TTRPGs
-        * [Red is the Knife](projects/RitK.md)
-        * [Ashenwood](projects/Ashenwood.md)
-    * Video Games
-        * [3x3](projects/3x3.md)
 * [About](about.md)
 * [Contact](mailto:levigilbert00@gmail.com)
 * [![RSS](images/rss.png)](feed.rss ':ignore')
