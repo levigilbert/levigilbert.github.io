@@ -74,6 +74,52 @@ body {
     color: black;
 }
 
+.markdown-section h1 {
+    font-family: 'Cooper-Hewitt';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 3rem;
+    color: black;
+    text-decoration: none;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    line-height: 3rem;
+    width: 90%;
+}
+
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+    font-family: 'Cooper-Hewitt';
+    color: black;
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    line-height: 2rem;
+    padding-top: 1rem;
+}
+
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.markdown-section h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    border-top: 1px solid black;
+}
+
+.markdown-section h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    border-top: 1px solid black;
+}
+
 .markdown-section li {
     list-style-position: outside;
     margin-left: 1.2rem;
@@ -133,16 +179,18 @@ img {
     line-height: 1.5rem;
 }
 
+.sidebar ul li a {
+    font-size: 1rem;
+}
+
 .anchor span,
-.sidebar ul li,
-.sidebar ul li a,
+.markdown-section a:hover,
 .sidebar ul li a:link,
 .sidebar ul li a:visited, 
 .sidebar ul li a:hover,
 .sidebar ul li a:active {
     font-family: 'Cooper-Hewitt';
     font-weight: 400;
-    font-size: 1rem;
     color: black;
     text-decoration: none;
 }
@@ -156,50 +204,4 @@ img {
 
 #footer {
     font-size: 1rem;
-}
-
-.markdown-section h1 {
-    font-family: 'Cooper-Hewitt';
-    font-weight: 300;
-    font-style: normal;
-    font-size: 3rem;
-    color: black;
-    text-decoration: none;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-    line-height: 3rem;
-    width: 90%;
-}
-
-.markdown-section h2,
-.markdown-section h3,
-.markdown-section h4,
-.markdown-section h5,
-.markdown-section h6 {
-    font-family: 'Cooper-Hewitt';
-    color: black;
-    text-decoration: none;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 2rem;
-    padding-top: 1rem;
-}
-
-.markdown-section h4,
-.markdown-section h5,
-.markdown-section h6 {
-    font-size: 1.5rem;
-    font-weight: 300;
-}
-
-.markdown-section h2 {
-    font-size: 2rem;
-    font-weight: 300;
-    border-top: 1px solid black;
-}
-
-.markdown-section h3 {
-    font-size: 1.5rem;
-    font-weight: 400;
-    border-top: 1px solid black;
 }
