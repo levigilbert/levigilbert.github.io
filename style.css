@@ -57,7 +57,7 @@ body {
     margin: auto;
     color: black;
     background-color: white;
-    line-height: 1.7rem;
+    line-height: 1.8rem;
     text-decoration: none;
 }
 
@@ -190,7 +190,7 @@ img {
 }
 
 .sidebar .sidebar-nav {
-    line-height: 1rem;
+    line-height: 1.5rem;
 }
 
 .sidebar ul li a {
