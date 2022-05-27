@@ -189,6 +189,10 @@ img {
     clear: both;
 }
 
+.sidebar .sidebar-nav {
+    line-height: 1rem;
+}
+
 .sidebar ul li a {
     font-size: 1rem;
 }
