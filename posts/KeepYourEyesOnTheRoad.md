@@ -1,5 +1,7 @@
 # Keep your eyes on the Road
 
+!> This post is somewhere between a game and game design. It started as satire, not sure where it's ended up. Eventually I'll make a version 2 that is more of a typical ttrpg.
+
 It's an obscure time that could be anywhere between 1970 and now. That's not important. What's important is cars and family.
 
 This game is intended for a crew that's played a couple ttrpgs before, if not then your mileage may vary. You can use dice if you want, d6's are fun, but use whatever. You at least need to know that the Fast and Furious franchise exists.
@@ -73,14 +75,6 @@ This is also called a character arc.
 
 Always remember: this isn't about heists, it's not about street races, and it sure as shit isn't about cars. These are only ever analogies for what is really important.
 
-### Family
-
-If you haven't realized yet, this game is about family. Your character's actual goals and that drama revolves around being a part of a family.
-
-So you're going to make a starting sequence and you're going to use telegraphing, dangling causes, dramatic irony, and dramatic tension to make it good and to set up the next sequence and other future sequences.
-
-You need characters to make a family and those characters have wants and needs.
-
 ## Character Creation
 
 You can be an undercover cop, a street racer, really whatever you want, it doesn't matter. What matters is cars and family.
@@ -130,10 +124,6 @@ In this sequence we get to find out what your character wants and that want is w
 Telegraph the next sequence. If you dangled a cause in a previous sequence then let's see the effect. However, you could leave it and drag it out a bit longer. If you just started playing the game then there should be more conflicts created than resolved and the conflicts you do resolve should cause other conflicts to arise. The opposite is true if you're wanting your game to start coming to a close.
 
 ## Where does this highway lead to?
-
-- conflict resolution
-- wants and needs
-- one shots and campaigns
 
 Eventually your conflicts will be resolved and your character's arc will come to a close. Did they get what they wanted? Did they learn what they actually needed? If you're doing a one-shot then great, but if you're wanting to do multiple sessions you can have your characters arc last through multiple sessions or resolve and come up with new wants and needs or those wants and needs can change throughout the course of playing.
 
