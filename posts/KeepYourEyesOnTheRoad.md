@@ -1,8 +1,8 @@
 # Keep your eyes on the Road
 
-!> This post is somewhere between a game and game design. It started as satire, not sure where it's ended up. Eventually I'll make a version 2 that is more of a typical ttrpg.
-
 ![Photo by Markus Spiske from Pexels](../images/pexels-markus-spiske-3905838.jpg)
+
+!> This post is somewhere between a game and game design. It started as satire, not sure where it's ended up. Eventually I'll make a version 2 that is more of a typical ttrpg.
 
 It's an obscure time that could be anywhere between 1970 and now. That's not important. What's important is cars and family.
 
