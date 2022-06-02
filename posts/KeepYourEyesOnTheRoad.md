@@ -1,7 +1,3 @@
----
-description: Keep your eyes on the Road
----
-
 # Keep your eyes on the Road
 
 ![Photo by Markus Spiske from Pexels](../images/pexels-markus-spiske-3905838.jpg)
