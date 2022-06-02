@@ -1,6 +1,6 @@
-<meta property="og:image" content="../images/pexels-markus-spiske-3905838.jpg">
-<meta property="og:description" content="It's an obscure time that could be anywhere between 1970 and now. That's not important. What's important is cars and family. This game is intended for a crew that's played a couple ttrpgs befure, if not then your mileage may vary. You can use dice if you want, d6's are fun, but use whatever. You at least need to know that the Fast and Furious franchise exists.">
-<meta property="og:title" content="Keep your eyes on the Road">
+---
+description: Keep your eyes on the Road
+---
 
 # Keep your eyes on the Road
 
