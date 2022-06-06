@@ -77,21 +77,26 @@ Write these down somewhere that you'll constantly see and be reminded. Wants and
 
 Sequences let you explore characters. When creating a sequence always think about character's wants and needs. Each sequence is built around conflict, tension, and resolution. If there are future sequences then that resolution often creates even more conflict.
 
-## Gameplay Loop
+## Gameplay
 
-- Choices made in each sequence set up future sequences.
+- Choices made in each sequence telegraph future sequences.
 - Consequences of the choices you make create new sequences.
-
-Earlier in the game you want to create more conflict than resolution. As the game progresses less conflict and more resolution bring the game to an end.
 
 ### What you can do
 
 - Make it more difficult to get what you want.
-- Get what you want if it's been sufficiently difficult.
+- Get what you want if it's been difficult.
 - Want something else.
-- Have the opportunity to get what you need, but choose not to.
-- Get what you need if you've suffered sufficiently.
+- Let go of your want and become conscious of what you need if you've suffered sufficiently.
+- Do something that contrasts your want and your need.
 - Telegraph what happens next.
+
+### What a sequence can do
+
+- Make it more difficult.
+- Offer a choice.
+- Reveal the effect of a choice.
+- Contrast a character's wants and needs.
 
 ## Examples
 
