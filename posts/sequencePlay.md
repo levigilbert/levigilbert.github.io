@@ -12,11 +12,9 @@ Sequence play was discussed in my previous post. I believe the concept has some 
 
 ## Character Creation
 
-When creating your character give them something they want badly, but are having difficulty getting. You can think of this as them chasing something or escaping something. You are giving your character motivation and by making it difficult to achieve you're creating conflict.
+When creating your character give them something they want badly, but are having difficulty getting. You can think of this as them chasing or escaping something. You are giving your character motivation and by making it difficult to achieve you're creating conflict.
 
-Come up with something they need, but don't realize they need it. This is what gives your character the possibility to grow and creates drama. Will they or won't they? Through the course of play you'll find out.
-
-Wants and needs aren't set in stone. They can and should change during play.
+Next give them something they need, but they don't realize they need it. This is what gives your character the possibility to grow and creates drama. Your character's arc is the contrast between their want and their need and how the relationship between the two plays out through the game. Wants and needs aren't set in stone. They can and should change during play. 
 
 Here are some suggestions to help you come up with wants and needs. You can also come up with your own lists of verbs, adjectives, and nouns to create a different tone for your game.
 
@@ -77,9 +75,7 @@ Write these down somewhere that you'll constantly see and be reminded. Wants and
 [^2]: Dangling Cause or Cause and Effect
 [^3]: Dramatic Tension
 
-Sequences let you explore characters. When creating a sequence always think about the character's wants and needs.
-
-If the word "sequences" is confusing, think of them as scenes, scenarios, or situations. The important thing is that a sequence has conflict, tension, and resolution. Each sequence is built around conflict, tension, and resolution. If there are future sequences then that resolution often creates even more conflict.
+Sequences let you explore characters. When creating a sequence always think about character's wants and needs. Each sequence is built around conflict, tension, and resolution. If there are future sequences then that resolution often creates even more conflict.
 
 ## Gameplay Loop
 
@@ -87,6 +83,37 @@ If the word "sequences" is confusing, think of them as scenes, scenarios, or sit
 - Consequences of the choices you make create new sequences.
 
 Earlier in the game you want to create more conflict than resolution. As the game progresses less conflict and more resolution bring the game to an end.
+
+### What you can do
+
+- Make it more difficult to get what you want.
+- Get what you want if it's been sufficiently difficult.
+- Want something else.
+- Have the opportunity to get what you need, but choose not to.
+- Get what you need if you've suffered sufficiently.
+- Telegraph what happens next.
+
+## Examples
+
+I'm going to write up a few examples of what this might look like if you're only using sequence play.
+
+### Solo
+
+**Name**: Clarence
+
+**Want**: To stop being dark and find the Death.
+
+**Need**: To have friends.
+
+I'm imagining Clarence has been stuck up in a tower too long and has a weird fascination with Death, but actually he just needs some friends.
+
+**Starting Sequence**: Clarence is up in his tower frantically going through stacks of books and scribbling notes on scrolls. In a shout of delight he yells "Finally, I've found you!", and unravels a map onto the table.
+
+Death would either be where lots of people are dieing or on holiday.
+
+"Looks like they're at the Red Coast? I thought that was a vacation destination? Maybe it's common for folks to die on vacation?" Clarence starts stuffing scrolls into a backpack, "No matter, we're off to the beach."
+
+The next sequence would probably be the beach. Clarence should have difficulty in getting what he wants so I'm guessing Death has left by the time he gets there. This would also be a good chance to potentially make friends, but I'm guessing at this time he has no interest in that.
 
 ## Takeaways
 
