@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sequence play was discussed in my previous post. I believe the concept has some possibility, but how it is currently isn't very actionable. This post is an attempt at taking that idea and making it playable.
+Sequence play was discussed in my previous post. I believe the concept has some possibility, but how it is currently isn't very actionable. This post is an attempt at taking that idea and making something playable.
 
 ## Goals for Sequence Play
 
@@ -12,9 +12,9 @@ Sequence play was discussed in my previous post. I believe the concept has some 
 
 ## Character Creation
 
-When creating your character give them something they want badly, but are having difficulty getting. You can think of this as them chasing or escaping something. You are giving your character motivation and by making it difficult to achieve you're creating conflict.
+Give your character something they want badly, but are having difficulty getting. They are chasing or escaping something. You are giving your character motivation and by making it difficult to achieve you're creating conflict.
 
-Next give them something they need, but they don't realize they need it. This is what gives your character the possibility to grow and creates drama. Your character's arc is the contrast between their want and their need and how the relationship between the two plays out through the game. Wants and needs aren't set in stone. They can and should change during play. 
+Give your character something they need, but don't realize they need it. Your character's arc is the contrast between their want and their need and how the relationship between the two plays out through the game. Wants and needs aren't set in stone. They can and should change during play as your character changes. 
 
 Here are some suggestions to help you come up with wants and needs. You can also come up with your own lists of verbs, adjectives, and nouns to create a different tone for your game.
 
@@ -63,19 +63,20 @@ Here are some suggestions to help you come up with wants and needs. You can also
 5. to let go of the past.
 6. to share a burden.
 
-Write these down somewhere that you'll constantly see and be reminded. Wants and needs are your guiding light whenever you're making choices, figuring out what to do, and roleplaying. It's who your character is; more than their stats, more than their class, more than their items.
+Write these down where you'll constantly see them and be reminded. Wants and needs are your guiding light whenever you're making choices, figuring out what to do, and roleplaying. It's who your character is; more than their stats, more than their class, more than their items.
 
 ## Sequence Creation
 
-- Did a character telegraph what might happen in the next sequence?[^1]
+Sequences let you explore characters. Think about character's wants and needs. Build sequences around conflict, tension, and resolution.
+
+- What do the characters want and why are they having a hard time getting it?[^1]
 - Is there a cause that we haven't seen the effect of yet?[^2]
-- What do the characters want and why are they having a hard time getting it?[^3]
+- Did a character telegraph what might happen in the next sequence?[^3]
 
-[^1]: Telegraphing
+
+[^1]: Dramatic Tension
 [^2]: Dangling Cause or Cause and Effect
-[^3]: Dramatic Tension
-
-Sequences let you explore characters. When creating a sequence always think about character's wants and needs. Each sequence is built around conflict, tension, and resolution. If there are future sequences then that resolution often creates even more conflict.
+[^3]: Telegraphing
 
 ## Gameplay
 
