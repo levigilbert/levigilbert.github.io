@@ -323,7 +323,7 @@ iframe-wrapper iframe {
     height: 100%;
 }
 
-@media (max-width: 760px) {
+@media only screen and (max-width: 760px) {
     body {
         width: 84%;
         padding-left: 8%;
@@ -403,6 +403,21 @@ iframe-wrapper iframe {
     #bottomnav {
         padding: 8px;
     }
+
+    div.sourceCode,
+    pre:not(.sourceCode) {
+        padding: 1.4rem 8vw;
+        margin: -0.7rem -8vw;
+        width: 100%;
+    }
+
+    .fullwidth {
+        max-width: 100%;
+    }
+
+    figure.fullwidth table {
+        width: 100%;
+    }
 }
 
 h1 {
@@ -475,12 +490,6 @@ figure.fullwidth table {
     width: 90%;
 }
 
-@media (max-width: 760px) {
-    figure.fullwidth table {
-        width: 100%;
-    }
-}
-
 pre > code {
     margin-left: initial;
     overflow-x: initial;
@@ -503,19 +512,6 @@ div.sourceCode, pre:not(.sourceCode) {
 .fullwidth div.sourceCode,
 .fullwidth pre:not(.sourceCode) {
     width: 100%;
-}
-
-@media (max-width: 760px) {
-    div.sourceCode,
-    pre:not(.sourceCode) {
-        padding: 1.4rem 8vw;
-        margin: -0.7rem -8vw;
-        width: 100%;
-    }
-
-    .fullwidth {
-        max-width: 100%;
-    }
 }
 
 #refs a {
