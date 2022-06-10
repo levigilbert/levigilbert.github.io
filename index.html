@@ -10,54 +10,15 @@ about ttrpgs, design, art, and video games">
 gilbert, blog, posts, writing, design, ttrpg">
                 <title>levigilbert.dev</title>
         <style type="text/css">code{white-space: pre;}</style>
-        <base href="https://levigilbert.dev/">
+        <!-- <base href="https://levigilbert.dev/"> -->
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <article>
-            <nav>
-                <button class="sidebar-toggle" onclick="toggleNav()">
-                    <div class="sidebar-toggle-button">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                </button>
-
-                <div id="sidebar">
-                    <ul id="navBar">
-                        <li><span id="navTitle"><a href="https://levigilbert.dev">levigilbert.dev</a></span></li>
-                        <li><a href="posts">Posts</a></li>
-                        <li><a href="projects">Projects</a></li>
-                        <li><a href="about">About</a></li>
-                        <li><a href="mailto:levigilbert00@gmail.com">Contact</a></li>
-                        <li><a href="feed.rss"><img src="images/rss.png" alt="RSS" style="width:32px;height:32px;"></a></li>
-                    </ul>
-                </div>
-
-                <script>
-                    var navToggled = false;
-
-                    function toggleNav() {
-                        if (navToggled) {
-                            open_sidebar();
-                            navToggled = false;
-                        }
-
-                        else {
-                            close_sidebar();
-                            navToggled = true;
-                        }
-                    }
-
-                    function open_sidebar() {
-                        document.getElementById("sidebar").style.transform = "translate(0px)";
-                    }
-
-                    function close_sidebar() {
-                        document.getElementById("sidebar").style.transform = "translate(-300px)";
-                    }
-                </script>            </nav>
+                        <header>
+                <h1 class="title">levigilbert.dev</h1>
+                                                                            </header>
+                        <section>
                         <h2 id="latest-blog-posts">Latest Blog
                         Posts</h2>
                         <ul>
@@ -67,11 +28,24 @@ gilbert, blog, posts, writing, design, ttrpg">
                         <li><a href="posts/keepYourEyesOnTheRoad">Keep
                         your Eyes on the Road</a></li>
                         </ul>
+                        </section>
+                        <section>
                         <h2 id="recent-projects">Recent Projects</h2>
                         <ul>
                         <li><a href="projects/RitK">Red is the
                         Knife</a></li>
                         </ul>
+                        </section>
+                        <nav>
+                        <hr />
+                        <a href="posts" id="bottomnav">Posts</a> <a
+                        href="projects" id="bottomnav">Projects</a> <a
+                        href="about" id="bottomnav">About</a> <a
+                        href="mailto:levigilbert00@gmail.com"
+                        id="bottomnav">Contact</a> <a href="feed.rss"
+                        id="bottomnav"><img src="images/rss.png"
+                        alt="RSS" /></a>
+                        </nav>
         </article>
         <footer>
             <hr>
