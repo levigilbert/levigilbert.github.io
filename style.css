@@ -557,6 +557,9 @@ q { quotes: "“" "”" "‘" "’"; }
     font-size: 1.1rem;
     background: none;
     padding: 16px;
+}
+
+#rssicon {
     width: 32px;
     height: 32px;
 }
