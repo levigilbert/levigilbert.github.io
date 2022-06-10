@@ -397,7 +397,11 @@ iframe-wrapper iframe {
     }
 
     img {
-        width: 100%;
+        max-width: 100%;
+    }
+
+    #bottomnav {
+        padding: 8px;
     }
 }
 
