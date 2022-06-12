@@ -456,7 +456,7 @@ q { quotes: "“" "”" "‘" "’"; }
     height: 2px;
 }
 
-.navlist {
+.navlist a {
     display: inline;
 }
 
@@ -468,6 +468,7 @@ q { quotes: "“" "”" "‘" "’"; }
 
 .navlink {
     background: none;
+    padding: 16px;
 }
 
 @media screen and (max-width: 1080px) {
