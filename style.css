@@ -460,7 +460,7 @@ q { quotes: "“" "”" "‘" "’"; }
     display: inline;
 }
 
-.navlist ul {
+.navlist {
         list-style-type: none;
         margin: 0;
         padding: 0;
