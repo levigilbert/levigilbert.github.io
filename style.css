@@ -456,10 +456,18 @@ q { quotes: "“" "”" "‘" "’"; }
     height: 2px;
 }
 
-#bottomnav {
-    font-size: 1.1rem;
+.navlist {
+    display: inline;
+}
+
+.navlist ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+
+.navlink {
     background: none;
-    padding: 16px;
 }
 
 @media screen and (max-width: 1080px) {
@@ -539,8 +547,8 @@ q { quotes: "“" "”" "‘" "’"; }
         max-width: 100%;
     }
 
-    #bottomnav {
-        padding: 8px;
+    .navlist a {
+        display: block;
     }
 
     div.sourceCode,
