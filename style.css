@@ -428,34 +428,6 @@ q { quotes: "“" "”" "‘" "’"; }
     font-size: 1rem;
 }
 
-.sidebar-toggle {
-    background-color: transparent;
-    background-color: hsla(0, 0%, 100%, 0.8);
-    border: 0;
-    outline: none;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    text-align: center;
-    transition: opacity .3s;
-    width: 284px;
-    z-index: 30;
-    cursor: pointer;
-}
-
-.sidebar-toggle:hover {
-    opacity: 0.4;
-}
-
-.sidebar-toggle span {
-    background-color: #111;
-    display: block;
-    margin-bottom: 4px;
-    width: 16px;
-    height: 2px;
-}
-
 .navlist {
     display: inline;
     background: none;
