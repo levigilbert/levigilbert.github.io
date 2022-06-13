@@ -468,7 +468,7 @@ q { quotes: "“" "”" "‘" "’"; }
     display: inline;
 }
 
-.navlink a {
+.navlist a {
     background: none;
     padding: 16px;
 }
