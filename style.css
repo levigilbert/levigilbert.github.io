@@ -464,6 +464,10 @@ q { quotes: "“" "”" "‘" "’"; }
     padding: 0;
 }
 
+.navlist li {
+    display: inline;
+}
+
 .navlink a {
     background: none;
     padding: 16px;
@@ -546,7 +550,7 @@ q { quotes: "“" "”" "‘" "’"; }
         max-width: 100%;
     }
 
-    .navlist ul {
+    .navlist li {
         display: block;
     }
 
