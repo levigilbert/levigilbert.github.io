@@ -457,14 +457,11 @@ q { quotes: "“" "”" "‘" "’"; }
 }
 
 .navlist {
+    display: inline;
+    background: none;
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-.navlist a {
-    display: inline;
-    background: none;
 }
 
 .navlink {
