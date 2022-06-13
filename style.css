@@ -458,6 +458,7 @@ q { quotes: "“" "”" "‘" "’"; }
 
 .navlist a {
     display: inline-flex;
+    list-style-type: none;
     background: none;
     padding: 16px;
 }
@@ -470,6 +471,7 @@ q { quotes: "“" "”" "‘" "’"; }
 }
 
 .navlink {
+    list-style-type: none;
     background: none;
     padding: 16px;
 }
