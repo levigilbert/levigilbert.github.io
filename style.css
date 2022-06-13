@@ -457,13 +457,13 @@ q { quotes: "“" "”" "‘" "’"; }
 }
 
 .navlist a {
-    display: inline;
+    display: inline-flex;
     background: none;
     padding: 16px;
 }
 
-.navlist {
-    display: inline;
+.navlist ul {
+    display: inline-flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
