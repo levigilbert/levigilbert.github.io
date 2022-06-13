@@ -549,7 +549,7 @@ q { quotes: "“" "”" "‘" "’"; }
         max-width: 100%;
     }
 
-    .navlist a, .navlist ul {
+    .navlist ul {
         display: block;
     }
 
