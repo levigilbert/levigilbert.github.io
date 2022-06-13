@@ -470,6 +470,10 @@ q { quotes: "“" "”" "‘" "’"; }
     padding: 0;
 }
 
+.navlist ul li::marker {
+    display: none;
+}
+
 .navlink {
     list-style-type: none;
     background: none;
