@@ -551,7 +551,7 @@ q { quotes: "“" "”" "‘" "’"; }
         max-width: 100%;
     }
 
-    .navlist a {
+    .navlist a, .navlist ul {
         display: block;
     }
 
