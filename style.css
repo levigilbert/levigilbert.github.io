@@ -456,22 +456,18 @@ q { quotes: "“" "”" "‘" "’"; }
     height: 2px;
 }
 
-.navlist a {
-    display: inline-flex;
-    list-style-type: none;
-    background: none;
-    padding: 16px;
-}
-
 .navlist ul {
-    display: inline-flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+.navlist a {
+    display: inline;
+    background: none;
+}
+
 .navlink {
-    list-style-type: none;
     background: none;
     padding: 16px;
 }
